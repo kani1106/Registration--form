@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 .nameerror,.emailerror, .passworderror{
     color: red;
@@ -5,3 +6,12 @@
 
 }
 
+=======
+
+.nameerror,.emailerror, .passworderror{
+    color: red;
+    display: none;
+
+}
+
+>>>>>>> 4fd6a8733ace5b24d43226a7ebb12a3583210b76
