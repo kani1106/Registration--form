@@ -1,0 +1,7 @@
+
+.nameerror,.emailerror, .passworderror{
+    color: red;
+    display: none;
+
+}
+
